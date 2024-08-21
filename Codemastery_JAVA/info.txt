@@ -1,0 +1,4 @@
+the files are pure java application files that are not linked with sql.
+Sql linked files and sql query files will be uploaded soon.
+images of what the application looks like are provided.
+images used will be updated soon.
